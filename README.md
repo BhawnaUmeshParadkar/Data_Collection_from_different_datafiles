@@ -1,7 +1,7 @@
 # Data Collection from Various File Formats
 
 ## Overview
-This repository contains code and documentation for an assignment focused on data collection from diverse file formats using Python. The assignment explores methods for extracting and processing data from formats such as CSV, Excel, JSON, and XML.
+This repository contains code and documentation for an assignment focused on data collection from diverse file formats using Python. The assignment explores methods for extracting and processing data from formats such as CSV, Excel, JSON, XML And SQL.
 
 ## Contents
 - **Code**: Contains Python scripts and Jupyter Notebooks demonstrating data collection techniques for different file formats.
